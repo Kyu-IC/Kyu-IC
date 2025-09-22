@@ -1,7 +1,10 @@
-## Hi
+## Hi, I'm Kyu 
 
-I'm Kyu 
----
+AI & Data Science Engineering Student
+--
+
+
+
 
 <!--
 **Kyu-IC/Kyu-IC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
